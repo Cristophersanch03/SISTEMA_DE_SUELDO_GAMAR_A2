@@ -11,6 +11,7 @@ using System.Windows.Forms;
 
 namespace SISTEMA_DE_SUELDO_GAMAR_A2
 {
+    //PROYECTO DEL RA2
     public partial class Form1 : Form
     {
         public Form1()
