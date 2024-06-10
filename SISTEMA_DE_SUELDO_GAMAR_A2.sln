@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SISTEMA_DE_SUELDO_GAMAR_A2", "SISTEMA_DE_SUELDO_GAMAR_A2\SISTEMA_DE_SUELDO_GAMAR_A2.csproj", "{4E27B887-0FF3-4F5C-B684-F255F966012D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E27B887-0FF3-4F5C-B684-F255F966012D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E27B887-0FF3-4F5C-B684-F255F966012D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E27B887-0FF3-4F5C-B684-F255F966012D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E27B887-0FF3-4F5C-B684-F255F966012D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD8DCC47-3C28-444D-A088-0964C0AE5044}
+	EndGlobalSection
+EndGlobal
